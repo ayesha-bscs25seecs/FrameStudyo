@@ -28,7 +28,7 @@ A JavaFX desktop graphic design application inspired by tools like Canva. FrameS
 - **Language:** Java
 - **UI Framework:** JavaFX
 - **IDE:** IntelliJ IDEA
-- **Architecture:** Object-Oriented (MVC pattern)
+- **Architecture:** Object-Oriented Programming (OOP)
 
 ---
 
@@ -43,7 +43,7 @@ A JavaFX desktop graphic design application inspired by tools like Canva. FrameS
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/FrameStudyo.git
+   git clone https://github.com/ayesha-bscs25seecs/FrameStudyo.git
 
 2. Open the project in IntelliJ IDEA.
 
